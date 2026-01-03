@@ -1,3 +1,6 @@
+![MySQL](https://img.shields.io/badge/SQL-MySQL-blue)
+
+
 # UPI Transaction Data Quality & Cleaning Using SQL
 
 ## Project Overview
